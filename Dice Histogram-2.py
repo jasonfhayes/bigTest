@@ -50,4 +50,4 @@ while True:
         bin.show(nRounds)
     print()
 
-print('OK bye')
+print('See ya later')
